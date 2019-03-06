@@ -1,0 +1,13 @@
+{
+  "name": "litecore-insight-docker",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "litecore-lib": "0.13.22",
+    "litecore-node": "3.1.11",
+    "insight-lite-api": "0.4.4",
+    "insight-lite-ui": "0.4.6"
+  }
+}
